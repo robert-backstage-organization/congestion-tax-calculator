@@ -4,7 +4,7 @@ metadata:
   name: congestion-tax-calculator
   description: Challenge
   annotations:
-    github.com/project-slug: robert-sebescen-symphony/congestion-tax-calculator
+    github.com/project-slug: robert-backstage-organization/congestion-tax-calculator
     sonarqube.org/project-key: congestion-tax-calculator
   tags:
     - challenge
@@ -13,4 +13,4 @@ metadata:
 spec:
   type: lib
   lifecycle: experimental
-  owner: principals
+  owner: internal-project
